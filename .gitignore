@@ -1,0 +1,9 @@
+# no subir al repo: entornos virtuales, media, key, debugs, base de datos
+entorno
+db.sqlite3
+media
+local.py
+
+
+
+
